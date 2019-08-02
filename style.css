@@ -1,0 +1,27 @@
+.clic{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card{
+    margin-right: 5%;
+    margin-left: 2%;
+    border: none;
+    background-color: transparent;
+}
+
+h1{
+    margin-top: 8px;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+
+@media screen and (max-width: 730px) {
+    .card {
+        margin-bottom: 8%;
+    }
+}
+
+#click{
+    margin-bottom: 4%;
+}
